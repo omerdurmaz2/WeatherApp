@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">havadurumu</string>
+    <string name="technical_error_message">Teknik bir sorun oluştu. Lütfen daha sonra tekrar deneyin.</string>
+    <string name="error_internet_connection">İnternet bağlantınız bulunmamakta</string>
+    <string name="tv_welcome">Hoşgeldiniz</string>
+    <string name="tv_please_set_location">Lütfen Konumunu Ayarla</string>
+    <string name="day_monday">Pazartesi</string>
+    <string name="day_tuesday">Salı</string>
+    <string name="day_wednesday">Çarşamba</string>
+    <string name="day_thursday">Perşembe</string>
+    <string name="day_friday">Cuma</string>
+    <string name="day_saturday">Cumartesi</string>
+    <string name="day_sunday">Pazar</string>
+</resources>
